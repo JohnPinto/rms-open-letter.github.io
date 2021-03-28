@@ -1414,6 +1414,7 @@ Free Software Contributor)
 1. João Carlos Almeida
 1. João da Silva (IslandC0der)
 1. João "Johnny" Ciocca (DCG5511)
+1. João Pinto
 1. João Veiga
 1. João Vinholi
 1. Joby Elliott
